@@ -14,14 +14,14 @@
  *    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
  * 2. Điền config bên dưới và đổi config `USE_FIREBASE = true`.
  */
-const FIREBASE_CONFIG = {
-    apiKey: "AIzaSyA3vnklDHkGbJlMynjYyeOo6c-cQbfH22A",
-    authDomain: "rexx-3ad24.firebaseapp.com",
-    projectId: "rexx-3ad24",
-    storageBucket: "rexx-3ad24.firebasestorage.app",
-    messagingSenderId: "422387830559",
-    appId: "1:422387830559:web:ab1dce01886063205c6a2a",
-    measurementId: "G-S3NHQH288Y"
+const firebaseConfig = {
+  apiKey: "AIzaSyCIZokHsr_1wIERtCsWGxu7ZKYhzT-c2No",
+  authDomain: "rexx-983a2.firebaseapp.com",
+  projectId: "rexx-983a2",
+  storageBucket: "rexx-983a2.firebasestorage.app",
+  messagingSenderId: "172461951384",
+  appId: "1:172461951384:web:e889a24cce9f4d12ec03ed",
+  measurementId: "G-5BBLM83BH6"
 };
 
 // ==========================================
