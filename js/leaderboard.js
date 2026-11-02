@@ -14,7 +14,7 @@
  *    <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-firestore-compat.js"></script>
  * 2. Điền config bên dưới và đổi config `USE_FIREBASE = true`.
  */
-const firebaseConfig = {
+const FIREBASE_CONFIG = {
   apiKey: "AIzaSyCIZokHsr_1wIERtCsWGxu7ZKYhzT-c2No",
   authDomain: "rexx-983a2.firebaseapp.com",
   projectId: "rexx-983a2",
